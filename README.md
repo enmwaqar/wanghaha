@@ -4,7 +4,7 @@
 
 제가 mybatis framwork, mysql8.0 을 사용하여 아래와 같은 인터페이스를 간단히 작성했습니다.
 
-
+port:localhost/8001
 
 API：
 
